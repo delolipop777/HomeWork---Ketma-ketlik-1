@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\bin\Debug\net8.0\1.1 - Doira, Aylana.exe
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\bin\Debug\net8.0\1.1 - Doira, Aylana.deps.json
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\bin\Debug\net8.0\1.1 - Doira, Aylana.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\bin\Debug\net8.0\1.1 - Doira, Aylana.dll
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\bin\Debug\net8.0\1.1 - Doira, Aylana.pdb
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.dll
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\refint\1.1 - Doira, Aylana.dll
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.pdb
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\1.1 - Doira, Aylana.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\1.1 - Doira, Aylana\obj\Debug\net8.0\ref\1.1 - Doira, Aylana.dll

@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\bin\Debug\net8.0\1.3 - Age Conversion.exe
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\bin\Debug\net8.0\1.3 - Age Conversion.deps.json
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\bin\Debug\net8.0\1.3 - Age Conversion.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\bin\Debug\net8.0\1.3 - Age Conversion.dll
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\bin\Debug\net8.0\1.3 - Age Conversion.pdb
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.dll
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\refint\1.3 - Age Conversion.dll
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.pdb
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\1.3 - Age Conversion.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\1.3 - Age Conversion\obj\Debug\net8.0\ref\1.3 - Age Conversion.dll

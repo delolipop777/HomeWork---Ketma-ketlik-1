@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\bin\Debug\net8.0\1.2 - Currency converter.exe
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\bin\Debug\net8.0\1.2 - Currency converter.deps.json
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\bin\Debug\net8.0\1.2 - Currency converter.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\bin\Debug\net8.0\1.2 - Currency converter.dll
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\bin\Debug\net8.0\1.2 - Currency converter.pdb
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.dll
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\refint\1.2 - Currency converter.dll
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.pdb
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\1.2 - Currency converter.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\1.2 - Currency converter\obj\Debug\net8.0\ref\1.2 - Currency converter.dll
